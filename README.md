@@ -54,7 +54,8 @@ A versão 'PRO' está disponível com novas funcionalidades para atender a deman
 
 ### Simple Wiring and construction:
 
-![WireUP](https://i.imgur.com/NsDjUTW.png)
+![WireUP](https://i.imgur.com/NsDjUTW.png)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flbussy%2FBrewUNO.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flbussy%2FBrewUNO?ref=badge_shield)
+
 
 This is the easiest way to mount your brewuno, you can improve it!
 
@@ -158,3 +159,7 @@ The default settings configure the device to bring up an access point on start u
 ## Donation
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=492TNNF63C9WG&source=url)
 [![apoiese](http://brewuno.com/images/apoia-se.png)](https://apoia.se/brewuno)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flbussy%2FBrewUNO.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flbussy%2FBrewUNO?ref=badge_large)
